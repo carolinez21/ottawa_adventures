@@ -64,3 +64,31 @@ body {
     top: 36%;
     transform: translate(-50%, -50%);
 }
+
+.about-body {
+    background-color: #94B8E8;
+    display:flex;
+    align-items: center;
+}
+
+.about-body-text {
+    color: white;
+    margin: 122px 5% 122px 5%;
+}
+
+.about-img {
+    width: 34%;
+    height: auto;
+    margin: 122px 5%;
+}
+
+.about-body-text h1 {
+    font-size: 3vw;
+    font-weight: bold;
+}
+
+.about-body-text p {
+    font-size: 1.8vw;
+    font-weight: normal;
+}
+
