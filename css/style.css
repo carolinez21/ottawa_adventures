@@ -92,3 +92,22 @@ body {
     font-weight: normal;
 }
 
+.faq-header-img {
+    width: 100%;
+    height: auto;
+    border: none;
+}
+
+.faq-body {
+    background-color: #94B8E8;
+    color: white;
+    padding: 74px 109px;
+}
+
+.faq-body p {
+    font-size: 2vw;
+}
+
+.faq-body h2 {
+    font-size: 2vw;
+}
