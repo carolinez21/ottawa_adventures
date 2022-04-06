@@ -174,13 +174,14 @@ body {
     background-color: #A1ACBD;
     color: white;
     margin-left: 1vw;
-    border: none;
 }
 
 .food-body-div-2-list {
     border-radius: 30px;
     background-color: #AD6E82;
+    color: white;
     width: 40vw;
     height: 597px;
     padding: 20px 0 0 20px;
+    font-size: 1.8vw;
 }
