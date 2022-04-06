@@ -1,8 +1,8 @@
 const buttons = document.querySelectorAll('button');
 
-const divList1 = document.querySelector(".food-body-div-1-items");
+const divList1 = document.querySelector(".activities-body-div-1-items");
 
-const divList2 = document.querySelector(".food-body-div-2-list");
+const divList2 = document.querySelector(".activities-body-div-2-list");
 
 buttons.forEach((button) => {
     button.addEventListener('click', () => {

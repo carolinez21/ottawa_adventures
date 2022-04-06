@@ -188,39 +188,39 @@ body {
     font-size: 24px;
 }
 
-.food-header {
+.activities-header {
     display: flex;
     justify-content: center;
     align-items: center;
     margin-top: 48px;
 }
 
-.food-header h1 {
+.activities-header h1 {
     font-size: 3.5vw;
     color: #94B8E8;
 }
 
-.food-header-logo {
+.activities-header-logo {
     width: 15%;
 }
 
-.food-body {
+.activities-body {
     display: flex;
     justify-content: space-between;
     margin: 74px 71px;
     gap: 10px;
 }
 
-.food-body h2 {
+.activities-body h2 {
     color: #3D4756;
     font-size: 2vw;
 }
 
-.food-body h3 {
+.activities-body h3 {
     margin: 0;
 }
 
-.food-body-div-1-list {
+.activities-body-div-1-list {
     border-radius: 30px;
     background-color: #E6A3B7;
     color: white;
@@ -230,20 +230,20 @@ body {
     font-size: 1.8vw;
 }
 
-.food-body-div-1-items {
+.activities-body-div-1-items {
     display: flex;
     justify-content: space-between;
 }
 
-.food-body-div-1-buttons {
+.activities-body-div-1-buttons {
     padding-right: 45px;
 }
 
-.food-body-div-1-buttons ul {
+.activities-body-div-1-buttons ul {
     list-style: none;
 }
 
-.food-body-div-1-buttons button {
+.activities-body-div-1-buttons button {
     font-size: 1.4vw;
     width: 7vw;
     border-radius: 20px;
@@ -253,11 +253,11 @@ body {
     border: none;
 }
 
-.food-body-div-1-buttons button:hover {
+.activities-body-div-1-buttons button:hover {
     background-color: #3D4756;
 }
 
-.food-body-div-2-list {
+.activities-body-div-2-list {
     border-radius: 30px;
     background-color: #AD6E82;
     color: white;
