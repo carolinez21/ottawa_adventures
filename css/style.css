@@ -75,8 +75,12 @@ body {
     display: block;
 }
 
-.nav-dropdown:hover .dropbt {
-    background-color: #3e8e41;
+.nav-dropdown:hover .nav-dropbtn {
+    color: #3D4756;
+}
+
+.nav a:hover {
+    color: #3D4756;
 }
 
 .home-header {
@@ -122,6 +126,10 @@ body {
     margin-left: 1vw;
     border: none;
     padding: 10px 15px;
+}
+
+.home-header-buttons button:hover {
+    background-color: #AD6E82;
 }
 
 .home-header-buttons a {
@@ -243,6 +251,10 @@ body {
     color: white;
     margin-left: 1vw;
     border: none;
+}
+
+.food-body-div-1-buttons button:hover {
+    background-color: #3D4756;
 }
 
 .food-body-div-2-list {
