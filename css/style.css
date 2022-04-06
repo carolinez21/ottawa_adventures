@@ -109,6 +109,26 @@ body {
     transform: translate(-50%, -50%);
 }
 
+.home-header-buttons {
+    position: absolute;
+    margin-left: 20vw;
+    top: 82%;
+}
+
+.home-header-buttons button {
+    font-size: 1.4vw;
+    border-radius: 20px;
+    background-color: #E6A3B7;
+    margin-left: 1vw;
+    border: none;
+    padding: 10px 15px;
+}
+
+.home-header-buttons a {
+    text-decoration: none;
+    color: white;
+}
+
 .about-body {
     background-color: #94B8E8;
     display:flex;
