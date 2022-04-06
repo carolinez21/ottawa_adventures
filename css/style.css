@@ -111,3 +111,76 @@ body {
 .faq-body h2 {
     font-size: 2vw;
 }
+
+.food-header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 48px;
+}
+
+.food-header h1 {
+    font-size: 3.5vw;
+    color: #94B8E8;
+}
+
+.food-header-logo {
+    width: 15%;
+}
+
+.food-body {
+    display: flex;
+    justify-content: space-between;
+    margin: 74px 71px;
+    gap: 10px;
+}
+
+.food-body h2 {
+    color: #3D4756;
+    font-size: 2vw;
+}
+
+.food-body h3 {
+    margin: 0;
+}
+
+.food-body-div-1-list {
+    border-radius: 30px;
+    background-color: #E6A3B7;
+    color: white;
+    width: 40vw;
+    height: 597px;
+    padding: 2vw 0 0 2vw;
+    font-size: 1.8vw;
+}
+
+.food-body-div-1-items {
+    display: flex;
+    justify-content: space-between;
+}
+
+.food-body-div-1-buttons {
+    padding-right: 45px;
+}
+
+.food-body-div-1-buttons ul {
+    list-style: none;
+}
+
+.food-body-div-1-buttons button {
+    font-size: 1.4vw;
+    width: 7vw;
+    border-radius: 20px;
+    background-color: #A1ACBD;
+    color: white;
+    margin-left: 1vw;
+    border: none;
+}
+
+.food-body-div-2-list {
+    border-radius: 30px;
+    background-color: #AD6E82;
+    width: 40vw;
+    height: 597px;
+    padding: 20px 0 0 20px;
+}
