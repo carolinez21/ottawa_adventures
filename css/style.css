@@ -69,6 +69,7 @@ body {
     background-color: #94B8E8;
     display:flex;
     align-items: center;
+    height: 90vh;
 }
 
 .about-body-text {
@@ -77,19 +78,22 @@ body {
 }
 
 .about-img {
-    width: 34%;
+    width: 28%;
     height: auto;
-    margin: 122px 5%;
+    margin: 90px 5%;
 }
 
 .about-body-text h1 {
-    font-size: 3vw;
+    font-size: 48px;
     font-weight: bold;
+    color: #3D4756;
 }
 
 .about-body-text p {
-    font-size: 1.8vw;
+    font-size: 24px;
     font-weight: normal;
+    margin-right: 10vw;
+    max-width: 40vw;
 }
 
 .faq-header-img {
@@ -101,15 +105,15 @@ body {
 .faq-body {
     background-color: #94B8E8;
     color: white;
-    padding: 74px 109px;
+    padding: 60px 109px;
 }
 
 .faq-body p {
-    font-size: 2vw;
+    font-size: 24px;
 }
 
 .faq-body h2 {
-    font-size: 2vw;
+    font-size: 24px;
 }
 
 .food-header {
