@@ -4,6 +4,8 @@ body {
     font-family: "Roboto", sans-serif;
 }
 
+/*nav*/
+/*the nav bar style is the same on all pages*/
 .nav {
     display: flex;
     justify-content: space-between;
@@ -35,6 +37,7 @@ body {
     padding-left: 34px;
 }
 
+/*nav dropdown menu*/
 .nav-dropbtn {
     background-color: white;
     color: #94B8E8;
@@ -83,6 +86,7 @@ body {
     color: #3D4756;
 }
 
+/*home page*/
 .home-header {
     position: relative;
     text-align: center;
@@ -137,6 +141,7 @@ body {
     color: white;
 }
 
+/*about page*/
 .about-body {
     background-color: #94B8E8;
     display:flex;
@@ -168,6 +173,7 @@ body {
     max-width: 40vw;
 }
 
+/*faq page*/
 .faq-header-img {
     width: 100%;
     height: auto;
@@ -188,6 +194,8 @@ body {
     font-size: 24px;
 }
 
+/*activities pages*/
+/*these css styles are the same for each activity page: Winter Activities, Summer Activities, A Night Out, and Yummy Food*/
 .activities-header {
     display: flex;
     justify-content: center;
